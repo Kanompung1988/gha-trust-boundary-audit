@@ -1,0 +1,7 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1120" height="400" viewBox="0 0 1120 400">
+<defs><linearGradient id="bg" x2="1" y2="1"><stop stop-color="#081726"/><stop offset="1" stop-color="#122D44"/></linearGradient><linearGradient id="accent" x2="1" y2="0"><stop stop-color="#00D9FF"/><stop offset="1" stop-color="#00FFA3"/></linearGradient></defs>
+<rect width="1120" height="400" rx="26" fill="url(#bg)"/>
+<path d="M0 330 H1120 M0 250 H1120 M0 170 H1120 M0 90 H1120" stroke="#22485A" opacity=".2"/>
+<g font-family="ui-sans-serif,system-ui,Arial" fill="white"><text x="64" y="90" font-size="18" letter-spacing="6" fill="#00FFA3">AREAZERO / OPEN SOURCE SKILL</text><text x="62" y="168" font-weight="700" font-size="51">TRUST BOUNDARY</text><text x="62" y="226" font-weight="700" font-size="51">AUDIT</text><text x="64" y="285" fill="#9AC1CB" font-size="21">Catch privileged CI trust crossings before merge.</text></g>
+<g transform="translate(815 76)"><rect width="238" height="250" rx="19" fill="#0A1929" stroke="#356879" stroke-width="2"/><path d="M119 25 L199 58 V125 C199 180 167 205 119 227 C71 205 39 180 39 125 V58 Z" stroke="url(#accent)" stroke-width="6" fill="none"/><path d="M78 122 L109 153 L164 91" fill="none" stroke="url(#accent)" stroke-width="10" stroke-linecap="round" stroke-linejoin="round"/><circle cx="228" cy="18" r="7" fill="#00FFA3"/></g>
+</svg>
